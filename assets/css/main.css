@@ -608,6 +608,7 @@
 
 		.box.style2 {
 			padding: 2em 2em 2em 2em;
+			font-weight: 400;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2096,7 +2097,7 @@
 		/*background:url("../../images/hq2.png");*/
 		background-size:cover;
 		background-attachment:fixed;
-		background-position:bottom center;
+		background-position:center center;
 		background-repeat:no-repeat;
 	}
 
